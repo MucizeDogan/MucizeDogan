@@ -32,16 +32,10 @@
 
    
  <h3 align="left">My Full-Stack Projects : </h3>
- 
-- **[Asp.Net Core Portfolio Sitesi](https://github.com/omerfarukkpala/OFPortfolio)**
-  
-  - Asp.Net Core Portfolio Sitesi -- >(https://github.com/omerfarukkpala/OFPortfolio)
 
-https://github.com/omerfarukkpala/OFPortfolio/assets/101570820/b57f85f0-c802-4081-bbbb-e6f6cb8d62ed
-
-- **[Asp.Net Core Restoran  Rezervasyon Projesi ](https://github.com/omerfarukkpala/SignalRestaurant)**
+- **[Asp.Net Core Cafe  Rezervasyon Projesi ](https://github.com/MucizeDogan/MDSCafe)**
   
-  - Asp.Net Core Restoran  Rezervasyon Projesi -- >(https://github.com/omerfarukkpala/SignalRestaurant)
+  - Asp.Net Core Cafe  Rezervasyon Projesi -- >(https://github.com/MucizeDogan/MDSCafe)
     
 
 
