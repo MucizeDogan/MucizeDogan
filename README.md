@@ -8,7 +8,7 @@
 - 🔭 I worked as a .NET developer for 4 months at a company called SAN TSG when I was in my 4rd year at university. I’m currently working for Athena Bilgisayar as a software developer.
 
 - 📫 You can reach me on **dogansarikurkcu@gmail.com**
-<h3 align="left"> <img src="https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=700&size=30&pause=750&color=007bff&width=435&lines=Connect+with+me :" alt="Typing SVG">
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mucize-doğan-sarıkürkcü-974660234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mucizedogansarikurkcu" height="30" width="40" style="margin-bottom: 5px;" /></a>
 </p>
