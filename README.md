@@ -2,7 +2,8 @@
     <h1 align="center">Hi 👋, I'm Mucize Doğan Sarıkürkcü</h1>                                                                             
     <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&weight=500&size=24&duration=2000&pause=750&color=007BFF&random=false&width=435&lines=C%23+%7C+JS+%7C.NET+Core+%7CSQL%7C+;Software+Developer" alt="Typing SVG" /></a></a> </h3>       
 </div>
- 💬 I am 24 years old. I am a Software Developer
+
+- 💬 I am 24 years old. I am a Software Developer
 
 - 🔭 I worked as a .NET developer for 4 months at a company called SAN TSG when I was in my 4rd year at university. I’m currently working for Athena Bilgisayar as a software developer.
 
